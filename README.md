@@ -1,5 +1,5 @@
 <h1 align="center">Hey! Welcome to my GitHub! </h1>
-<p align="center">Please reach me anytime!<p>
+<p align="center">I am Yik, Please reach me anytime!<p>
 <div align="center" id="badges">
   <a href="https://www.linkedin.com/in/yik-tung-yeung/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
